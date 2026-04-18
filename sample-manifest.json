@@ -1,0 +1,12 @@
+{
+  "export_job_id": "71cdb51f-9f4e-4eec-bcbe-7a7ca3a3c728",
+  "id_short": 488223,
+  "published_at": "2026-04-18T19:13:07Z",
+  "repo_name": "all-restaurants-in-fayetteville-metro-north-carolina-us-sample-488223",
+  "sample_asset_name": "beamstation_488223_restaurants-us-fayettevillenc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/488223/beamstation_488223_restaurants-us-fayettevillenc_SAMPLE_DIST.csv",
+  "sample_records": 87,
+  "sample_sha256": "afe03e2e63d595f28b9b73b70f4aa28964d643a986070a9e068174b053998a4c",
+  "sample_size_bytes": 354611,
+  "total_records": 875
+}
